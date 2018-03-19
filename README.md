@@ -3,6 +3,8 @@
 ### Summary
 When launching the app with InCall status bar enabled, centered logo in LaunchScreen.storyboard gets cropped in a strange way
 
+![Launch Bug screenshot](https://raw.githubusercontent.com/armadilov/ios-lauch-storyboard-bug/master/screenshots/launch.png "Launch Bug")
+
 ### Steps to Reproduce
 1. Create a new app with LaunchScreen.storyboard
 2. Add an UIImageView to the Launch View Controller and select some image
