@@ -5,6 +5,8 @@ When launching the app with InCall status bar enabled, centered logo in LaunchSc
 
 ![Launch Bug screenshot](https://raw.githubusercontent.com/armadilov/ios-lauch-storyboard-bug/master/screenshots/launch.png "Launch Bug")
 
+![Storyboard setup](https://raw.githubusercontent.com/armadilov/ios-lauch-storyboard-bug/master/screenshots/storyboard-setup.png "Storyboard setup")
+
 ### Steps to Reproduce
 1. Create a new app with LaunchScreen.storyboard
 2. Add an UIImageView to the Launch View Controller and select some image
